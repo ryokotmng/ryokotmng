@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :wink:
 
 - 🌱 &nbsp;I’m currently learning mainly Go
-- 📫 &nbsp;How to reach me: [@trurbofish](https://twitter.com/turbofish_)
+- 📫 &nbsp;How to reach me: twitter [@trurbofish](https://twitter.com/turbofish_) or [email](<mailto:ryokotmng.dev@gmail.com>)
 - 👨‍💻 &nbsp;[My blog](https://turbofish.hatenablog.com/)
 
 🔗 &nbsp;**Connect with me**
