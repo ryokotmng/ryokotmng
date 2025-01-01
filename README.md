@@ -3,7 +3,7 @@ This is the place where I opensource stuff and break things :wink:
 
 - 🔭 &nbsp;I work as a web developer for a FashionTech company that is well-known for its e-commerce service
 - 🌱 &nbsp;Using Go mainly
-- 📫 &nbsp;How to reach me: twitter [@turbofish_](https://twitter.com/turbofish_) or [email](<mailto:ryokotmng.dev@gmail.com>)
+- 📫 &nbsp;How to reach me: twitter [@turbofish_](https://twitter.com/turbofish_) or [email](<mailto:turbofish.dev@gmail.com>)
 - 👨‍💻 &nbsp;[My blog](https://turbofish.hatenablog.com/)
 
 ### 🔗 &nbsp;**Connect with me**
@@ -19,31 +19,31 @@ This is the place where I opensource stuff and break things :wink:
 
 <div style="float: left;">
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg"/>
 </div>
 
 #### Frontend
 
 <div style="float: left;">
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"/>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
 #### Others
 
 <div style="float: left;">
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
 </div>
 
 ### **✨&nbsp;&nbsp;About&nbsp;Me (TBD)**
