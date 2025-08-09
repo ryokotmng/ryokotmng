@@ -53,7 +53,3 @@ This is the place where I opensource stuff and break things :wink:
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
 </div>
-
-### **✨&nbsp;&nbsp;About&nbsp;Me (TBD)**
-
-TBD
