@@ -1,9 +1,9 @@
 ### Hi there 👋
 This is the place where I opensource stuff and break things :wink:
 
-- 🔭 &nbsp;I work as a web developer for a FashionTech company that is well-known for its e-commerce service
+- 🔭 &nbsp;I currently work as a web developer for a FashionTech company that is well-known for its e-commerce service
 - 🌱 &nbsp;Using Go and Google Cloud mainly
-- 📫 &nbsp;How to reach me: X [@turbofish_](https://twitter.com/turbofish_), [LinkedIn](https://www.linkedin.com/in/ryoko-tominaga-86b6851b9/) or [email](<mailto:turbofish.dev@gmail.com>)
+- 📫 &nbsp;Reach me at: X [@turbofish_](https://twitter.com/turbofish_), [LinkedIn](https://www.linkedin.com/in/ryoko-tominaga-86b6851b9/) or [email](<mailto:turbofish.dev@gmail.com>)
 - 👨‍💻 &nbsp;[My blog](https://turbofish.hatenablog.com/)
 
 ### 📗 Articles 
