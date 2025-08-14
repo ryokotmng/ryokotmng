@@ -7,12 +7,14 @@ This is the place where I opensource stuff and break things :wink:
 - 👨‍💻 &nbsp;[My blog](https://turbofish.hatenablog.com/)
 
 ### 📗 Articles 
+- [Google Cloud Next 2025参加レポート](https://techblog.zozo.com/entry/google-cloud-next-2025) 2025-04-30
 - [ZOZOTOWNのマーケティングメール配信を支える技術](https://techblog.zozo.com/entry/marketing-mail-system-rearchitecture) 2025-03-18
 - [Software Design 2024年7月号 連載「レガシーシステム攻略のプロセス」第3回 API Gatewayとサービスメッシュによるリクエスト制御](https://techblog.zozo.com/entry/software-design-202407) 2024-07-31
 
 ### 💬 Presentations
-- GoのinterfaceとGenericsの内部構造と進化 (Go Conference 2025) 2025-09
-- ZOZOTOWN の大規模マーケティング メール配信を支えるアーキテクチャ (Google Cloud Next Tokyo '25) 2025-08-05
+- GoのinterfaceとGenericsの内部構造と進化 (Go Conference 2025) 2025-09-xx
+- [ZOZOTOWN の大規模マーケティング メール配信を支えるアーキテクチャ](https://www.googlecloudevents.com/next-tokyo/sessions?session_id=3123117) (Google Cloud Next Tokyo '25) 2025-08-05
+- [Google Cloud Next 2025 Recap in ZOZO](https://www.youtube.com/watch?v=C6rCpcTtaoE) 2025-05-12
 
 ### 🔗 &nbsp;**Connect with me**
 <p>
