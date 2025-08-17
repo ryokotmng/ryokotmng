@@ -10,6 +10,7 @@ This is the place where I opensource stuff and break things :wink:
 - [Google Cloud Next 2025参加レポート](https://techblog.zozo.com/entry/google-cloud-next-2025) 2025-04-30
 - [ZOZOTOWNのマーケティングメール配信を支える技術](https://techblog.zozo.com/entry/marketing-mail-system-rearchitecture) 2025-03-18
 - [Software Design 2024年7月号 連載「レガシーシステム攻略のプロセス」第3回 API Gatewayとサービスメッシュによるリクエスト制御](https://techblog.zozo.com/entry/software-design-202407) 2024-07-31
+- [サービス無停止を実現するデータ移行戦略](https://techblog.zozo.com/entry/microservice-data-migration) 2023-09-26
 
 ### 💬 Recent Presentations
 - GoのinterfaceとGenericsの内部構造と進化 (Go Conference 2025) 2025-09-xx
