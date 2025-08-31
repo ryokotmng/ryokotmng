@@ -13,7 +13,7 @@ This is the place where I opensource stuff and break things :wink:
 - [サービス無停止を実現するデータ移行戦略](https://techblog.zozo.com/entry/microservice-data-migration) 2023-09-26
 
 ### 💬 Recent Presentations
-- GoのinterfaceとGenericsの内部構造と進化 (Go Conference 2025) 2025-09-xx
+- [GoのinterfaceとGenericsの内部構造と進化](https://gocon.jp/2025/talks/951608/) (Go Conference 2025) 2025-09-27
 - [ZOZOTOWN の大規模マーケティング メール配信を支えるアーキテクチャ](https://www.googlecloudevents.com/next-tokyo/sessions?session_id=3123117) (Google Cloud Next Tokyo '25) 2025-08-05
 - [Google Cloud Next 2025 Recap in ZOZO](https://www.youtube.com/watch?v=C6rCpcTtaoE) 2025-05-12
 
